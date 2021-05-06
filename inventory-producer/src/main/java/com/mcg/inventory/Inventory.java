@@ -53,7 +53,5 @@ public class Inventory {
 		return "Inventory{invId=" + invId + ", productId=" + productId + ", quantity=" + quantity + ", threshold="
 				+ threshold + "}";
 	}
-	
-	
 
 }
